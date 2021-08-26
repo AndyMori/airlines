@@ -1,0 +1,15 @@
+/Users/amoriarty/Projects/Airlines/Airlines/bin/Debug/netcoreapp3.1/Airlines.deps.json
+/Users/amoriarty/Projects/Airlines/Airlines/bin/Debug/netcoreapp3.1/Airlines.runtimeconfig.json
+/Users/amoriarty/Projects/Airlines/Airlines/bin/Debug/netcoreapp3.1/Airlines.runtimeconfig.dev.json
+/Users/amoriarty/Projects/Airlines/Airlines/bin/Debug/netcoreapp3.1/Airlines.dll
+/Users/amoriarty/Projects/Airlines/Airlines/bin/Debug/netcoreapp3.1/Airlines.pdb
+/Users/amoriarty/Projects/Airlines/Airlines/obj/Debug/netcoreapp3.1/Airlines.csproj.AssemblyReference.cache
+/Users/amoriarty/Projects/Airlines/Airlines/obj/Debug/netcoreapp3.1/Airlines.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amoriarty/Projects/Airlines/Airlines/obj/Debug/netcoreapp3.1/Airlines.AssemblyInfoInputs.cache
+/Users/amoriarty/Projects/Airlines/Airlines/obj/Debug/netcoreapp3.1/Airlines.AssemblyInfo.cs
+/Users/amoriarty/Projects/Airlines/Airlines/obj/Debug/netcoreapp3.1/Airlines.csproj.CoreCompileInputs.cache
+/Users/amoriarty/Projects/Airlines/Airlines/obj/Debug/netcoreapp3.1/Airlines.dll
+/Users/amoriarty/Projects/Airlines/Airlines/obj/Debug/netcoreapp3.1/Airlines.pdb
+/Users/amoriarty/Projects/Airlines/Airlines/obj/Debug/netcoreapp3.1/Airlines.genruntimeconfig.cache
+/Users/amoriarty/Projects/Airlines/Airlines/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/amoriarty/Projects/Airlines/Airlines/obj/Debug/netcoreapp3.1/Airlines.csproj.CopyComplete

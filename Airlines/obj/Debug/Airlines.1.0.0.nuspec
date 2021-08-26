@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Airlines</id>
+    <version>1.0.0</version>
+    <authors>Airlines</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/amoriarty/Projects/Airlines/Airlines/bin/Debug/netcoreapp3.1/Airlines.runtimeconfig.json" target="lib/netcoreapp3.1/Airlines.runtimeconfig.json" />
+    <file src="/Users/amoriarty/Projects/Airlines/Airlines/bin/Debug/netcoreapp3.1/Airlines.dll" target="lib/netcoreapp3.1/Airlines.dll" />
+  </files>
+</package>
